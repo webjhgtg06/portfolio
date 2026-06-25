@@ -21,10 +21,6 @@ A modern and responsive portfolio website showcasing my projects, skills, and ex
 - Responsive Design
 
 
-## Live Demo
-
-
-
 ## About Me
 
 I am an Artificial Intelligence and Data Science student passionate about building intelligent systems, machine learning solutions, and modern web applications. I enjoy solving real-world problems through technology and continuously expanding my skills in AI, data analytics, and software development.
