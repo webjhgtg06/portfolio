@@ -20,16 +20,10 @@ A modern and responsive portfolio website showcasing my projects, skills, and ex
 - Google Fonts
 - Responsive Design
 
-## Featured Projects
-
-- Pneumonia Detection using Deep Learning
-- Predictive Maintenance System
-- Machine Learning Applications
-- Data Visualization Projects
 
 ## Live Demo
 
-🔗 Add your deployed website link here
+
 
 ## About Me
 
